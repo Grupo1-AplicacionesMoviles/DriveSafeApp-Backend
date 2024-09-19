@@ -7,7 +7,7 @@ using DriveSafe.Domain.Publishing.Services;
 using DriveSafe.Domain.Security.Models.Commands;
 using DriveSafe.Domain.Security.Services;
 
-namespace DriveSafe.Application.Publishing.CommandServices;
+namespace DriveSafe.Application.Security.CommandServices;
 
 public class UserCommandService : IUserCommandService
 {

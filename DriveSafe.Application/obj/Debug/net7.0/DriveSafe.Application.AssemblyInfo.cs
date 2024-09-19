@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriveSafe.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e07008ad6df8dd69d0c54e52cd07eb97e7ab2c3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a3cd56d782c7dab75ed286809e64edd0f0baf92")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriveSafe.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DriveSafe.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
