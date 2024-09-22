@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {}
+    "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
+    "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
         "projectName": "DriveSafe.Shared",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
         "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\obj\\",
+        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

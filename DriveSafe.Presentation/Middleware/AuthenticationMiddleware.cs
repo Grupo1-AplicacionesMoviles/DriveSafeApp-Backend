@@ -48,8 +48,6 @@ public class AuthenticationMiddleware
         var user = await userRepository.GetByIdAsync(userId.Value);
         context.Items["User"] = user;
         
-        
-        
         await _next(context);  
     }
     

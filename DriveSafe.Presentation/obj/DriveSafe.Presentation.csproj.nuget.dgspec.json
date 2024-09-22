@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj": {}
+    "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj": {
+    "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj",
+        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj",
         "projectName": "DriveSafe.Application",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj",
+        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj",
         "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\obj\\",
+        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
+              "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+    "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
         "projectName": "DriveSafe.Domain",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
+        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
         "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\obj\\",
+        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
+    "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
         "projectName": "DriveSafe.Infraestructure",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -244,8 +244,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
+              "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
               }
             }
           }
@@ -311,14 +311,14 @@
         }
       }
     },
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj": {
+    "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj",
         "projectName": "DriveSafe.Presentation",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj",
+        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj",
         "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\obj\\",
+        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -339,17 +339,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj"
+              "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj": {
+                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj"
               },
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
+              "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
               },
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj"
+              "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj"
               },
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj"
+              "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
+                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj"
               }
             }
           }
@@ -462,14 +462,14 @@
         }
       }
     },
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
+    "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
         "projectName": "DriveSafe.Shared",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
         "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\obj\\",
+        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

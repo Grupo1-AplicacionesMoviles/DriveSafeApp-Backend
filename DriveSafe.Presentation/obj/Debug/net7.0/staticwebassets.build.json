@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MIHcx0iLTHiE66Q0TJiumA1DgHW0kybXBaSIrDoWmlo=",
+  "Hash": "xxHNOI0TpxMttkkd/DapJ0VTuVnEvwotxAzaFj24x94=",
   "Source": "DriveSafe.Presentation",
   "BasePath": "_content/DriveSafe.Presentation",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DriveSafe.Presentation\\wwwroot",
       "Source": "DriveSafe.Presentation",
-      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\",
       "BasePath": "_content/DriveSafe.Presentation",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\files\\docs\\document-638600383264862640..pdf",
+      "Identity": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\files\\docs\\document-638600383264862640..pdf",
       "SourceId": "DriveSafe.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\",
       "BasePath": "_content/DriveSafe.Presentation",
       "RelativePath": "files/docs/document-638600383264862640..pdf",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\files\\docs\\document-638600383264862640..pdf"
     },
     {
-      "Identity": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638600373660451327..png",
+      "Identity": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638600373660451327..png",
       "SourceId": "DriveSafe.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\",
       "BasePath": "_content/DriveSafe.Presentation",
       "RelativePath": "files/images/image-638600373660451327..png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\files\\images\\image-638600373660451327..png"
     },
     {
-      "Identity": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638611431809429985..jpg",
+      "Identity": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638611431809429985..jpg",
       "SourceId": "DriveSafe.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\",
       "BasePath": "_content/DriveSafe.Presentation",
       "RelativePath": "files/images/image-638611431809429985..jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\files\\images\\image-638611431809429985..jpg"
     },
     {
-      "Identity": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638611432024864123..gif",
+      "Identity": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638611432024864123..gif",
       "SourceId": "DriveSafe.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Presentation\\wwwroot\\",
       "BasePath": "_content/DriveSafe.Presentation",
       "RelativePath": "files/images/image-638611432024864123..gif",
       "AssetKind": "All",

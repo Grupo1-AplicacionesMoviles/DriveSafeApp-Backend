@@ -1,10 +1,12 @@
 using System.Net.Mime;
 using AutoMapper;
+using DriveSafe.Application.Security.CommandServices;
 using DriveSafe.Domain.Publishing.Models.Commands;
 using DriveSafe.Domain.Publishing.Models.Queries;
 using DriveSafe.Domain.Publishing.Models.Response;
 using DriveSafe.Domain.Publishing.Services;
 using DriveSafe.Domain.Security.Models.Commands;
+using DriveSafe.Domain.Security.Services;
 using DriveSafe.Presentation.Publishing.Filters;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -18,12 +20,14 @@ namespace DriveSafe.Presentation.Security.Controllers
         private readonly IMapper _mapper;
         private readonly IUserCommandService _userCommandService;
         private readonly IUserQueryService _userQueryService;
-        
-        public UserController(IUserQueryService userQueryService, IUserCommandService userCommandService, IMapper mapper)
+        private readonly ITokenService _tokenService;
+
+        public UserController(IUserQueryService userQueryService, IUserCommandService userCommandService, IMapper mapper, ITokenService tokenService)
         {
             _userQueryService = userQueryService;
             _userCommandService = userCommandService;
             _mapper = mapper;
+            _tokenService = tokenService;
         }
         
         [AllowAnonymous]
@@ -38,7 +42,29 @@ namespace DriveSafe.Presentation.Security.Controllers
     
             return Ok(result);
         }
-        
+
+        [HttpGet("Type")]
+        [ProducesResponseType(typeof(List<UserResponse>), 200)]
+        [ProducesResponseType(typeof(void), statusCode: StatusCodes.Status404NotFound)]
+        [ProducesResponseType(500)]
+        [Produces(MediaTypeNames.Application.Json)]
+        [AuthorizeCustom("admin", "tenant", "owner")]
+        public async Task<IActionResult> GetUserType()
+        {
+            var token = Request.Headers["Authorization"].FirstOrDefault()?.Split(" ").Last();
+
+            var userId = await _tokenService.ValidateToken(token);
+
+            var user = await _userQueryService.Handle(new GetUserByIdQuery(userId.Value));
+
+            if (user == null)
+            {
+                return NotFound("User not found");
+            }
+
+            return Ok(user.Type);
+        }
+
         [HttpGet("{id}", Name = "GetUserById")]
         [ProducesResponseType(typeof(UserResponse), 200)]
         [ProducesResponseType(typeof(void),statusCode: StatusCodes.Status404NotFound)]

@@ -18,14 +18,13 @@ public class TokenService : ITokenService
     }
     public string GenerateToken(User user, int Id)
     {
-        
         var key = Encoding.ASCII.GetBytes(_configuration["AppSettings:Secret"]); 
         var tokenDescriptor = new SecurityTokenDescriptor
         {
             Subject = new ClaimsIdentity(new[]
             {
                 new Claim(ClaimTypes.Sid, Id.ToString()),
-                new Claim(ClaimTypes.Name, user.Gmail)
+                new Claim(ClaimTypes.Name, user.Type)
             }),
             Expires = DateTime.UtcNow.AddHours(4),
             SigningCredentials =

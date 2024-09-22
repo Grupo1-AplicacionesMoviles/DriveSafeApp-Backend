@@ -65,3 +65,15 @@ C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Domain\obj\Debug\ne
 C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.pdb
 C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Domain\obj\Debug\net7.0\ref\DriveSafe.Domain.dll
 C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.sourcelink.json
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\bin\Debug\net7.0\DriveSafe.Domain.deps.json
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\bin\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\bin\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.AssemblyInfoInputs.cache
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.AssemblyInfo.cs
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.sourcelink.json
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\refint\DriveSafe.Domain.dll
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\LUIS\RiderProjects\backup\DriveSafeApp-Backend\DriveSafe.Domain\obj\Debug\net7.0\ref\DriveSafe.Domain.dll

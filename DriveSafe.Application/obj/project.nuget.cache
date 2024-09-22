@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RjUES0RdbZq9l9AMzkYd3yoDIGbW4MWG+N5CY4hGDHfOT1PYTeKBR8eU1EbGfMGJCe9f/Tg8Ww7e4p7ZoM6Ahw==",
+  "dgSpecHash": "U176GUDrDtPX62DDjTkaUyhbDT2P8Oh6EmAXPf8JQnSlVuhQjRxK1r+uBENr3fvblVIzjlPn27BQQgLmtLDvkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj",
+  "projectFilePath": "C:\\Users\\LUIS\\RiderProjects\\backup\\DriveSafeApp-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUIS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\LUIS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
