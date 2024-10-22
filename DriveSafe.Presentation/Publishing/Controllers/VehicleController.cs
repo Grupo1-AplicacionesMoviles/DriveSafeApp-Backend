@@ -83,6 +83,21 @@ namespace DriveSafe.Presentation.Publishing.Controllers
             
             return StatusCode( StatusCodes.Status201Created, result);
         }
+        
+        [HttpPut("{id}")]
+        [ProducesResponseType(typeof(void), 200)]
+        [ProducesResponseType(typeof(void),statusCode: StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(void),StatusCodes.Status500InternalServerError)]
+        [AuthorizeCustom("admin", "owner")]
+        public async Task<IActionResult> PutAsync(int id, [FromBody] UpdateVehicleCommand command)
+        {
+            if (!ModelState.IsValid) return BadRequest();
+            var result = await _vehicleCommandService.Handle(id, command);
+            
+            if (!result) StatusCode(StatusCodes.Status404NotFound);
+
+            return Ok();
+        }
 
         [HttpDelete("{id}")]
         [ProducesResponseType(typeof(void), StatusCodes.Status204NoContent)]

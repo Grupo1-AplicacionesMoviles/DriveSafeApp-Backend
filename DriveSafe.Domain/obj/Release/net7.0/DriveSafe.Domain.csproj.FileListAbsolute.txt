@@ -1,0 +1,12 @@
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\bin\Release\net7.0\DriveSafe.Domain.deps.json
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\bin\Release\net7.0\DriveSafe.Domain.dll
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\bin\Release\net7.0\DriveSafe.Domain.pdb
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\DriveSafe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\DriveSafe.Domain.AssemblyInfoInputs.cache
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\DriveSafe.Domain.AssemblyInfo.cs
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\DriveSafe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\DriveSafe.Domain.sourcelink.json
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\DriveSafe.Domain.dll
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\refint\DriveSafe.Domain.dll
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\DriveSafe.Domain.pdb
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Domain\obj\Release\net7.0\ref\DriveSafe.Domain.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj": {}
+    "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj": {
+    "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj",
+        "projectUniqueName": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj",
         "projectName": "DriveSafe.Application",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj",
-        "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\obj\\",
+        "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj",
+        "packagesPath": "C:\\Users\\salvl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LUIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\salvl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
+              "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
               }
             }
           }
@@ -42,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -139,25 +141,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+    "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
         "projectName": "DriveSafe.Domain",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
-        "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\obj\\",
+        "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
+        "packagesPath": "C:\\Users\\salvl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LUIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\salvl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,6 +163,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -177,6 +176,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -212,25 +216,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
+    "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
         "projectName": "DriveSafe.Infraestructure",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\salvl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LUIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\salvl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -238,14 +238,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
+              "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
               }
             }
           }
@@ -254,6 +255,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -307,25 +313,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj": {
+    "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj",
         "projectName": "DriveSafe.Presentation",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj",
-        "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\obj\\",
+        "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Presentation\\DriveSafe.Presentation.csproj",
+        "packagesPath": "C:\\Users\\salvl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Presentation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LUIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\salvl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -333,23 +335,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Application\\DriveSafe.Application.csproj"
+              "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj": {
+                "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Application\\DriveSafe.Application.csproj"
               },
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
+              "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
               },
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj"
+              "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj"
               },
-              "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
-                "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj"
+              "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
+                "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj"
               }
             }
           }
@@ -358,6 +361,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -458,25 +466,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
+    "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
         "projectName": "DriveSafe.Shared",
-        "projectPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
-        "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\obj\\",
+        "projectPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+        "packagesPath": "C:\\Users\\salvl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salvl\\RiderProjects\\DriveSafe-App-Backend\\DriveSafe.Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LUIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\salvl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -484,6 +488,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -496,6 +501,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -531,7 +541,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,7 +6,7 @@ public interface IVehicleCommandService
 {
     Task<int> Handle(CreateVehicleCommand command);
     
-    Task<bool> Handle(UpdateVehicleCommand command);
+    Task<bool> Handle(int id, UpdateVehicleCommand command);
     
     Task<bool> Handle(DeleteVehicleCommand command);
 }

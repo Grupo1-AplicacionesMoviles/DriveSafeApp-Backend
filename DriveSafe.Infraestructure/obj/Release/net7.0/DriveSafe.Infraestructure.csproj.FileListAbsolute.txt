@@ -1,0 +1,16 @@
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\bin\Release\net7.0\DriveSafe.Infraestructure.deps.json
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\bin\Release\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\bin\Release\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\bin\Release\net7.0\DriveSafe.Domain.dll
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\bin\Release\net7.0\DriveSafe.Domain.pdb
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSafe.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSafe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSafe.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSafe.Infraestructure.AssemblyInfo.cs
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSafe.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSafe.Infraestructure.sourcelink.json
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSaf.D88E32D1.Up2Date
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\refint\DriveSafe.Infraestructure.dll
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\DriveSafe.Infraestructure\obj\Release\net7.0\ref\DriveSafe.Infraestructure.dll

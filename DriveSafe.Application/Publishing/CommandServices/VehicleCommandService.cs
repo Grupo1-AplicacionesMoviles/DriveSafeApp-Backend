@@ -24,9 +24,12 @@ public class VehicleCommandService : IVehicleCommandService
         return await _vehicleRepository.SaveAsync(vehicle);
     }
 
-    public async Task<bool> Handle(UpdateVehicleCommand command)
+    public async Task<bool> Handle(int id, UpdateVehicleCommand command)
     {
-        throw new NotImplementedException();
+        var existingVehicle = await _vehicleRepository.GetByIdAsync(id);
+        var vehicle = _mapper.Map<UpdateVehicleCommand, Vehicle>(command);
+        if (existingVehicle == null) return false;
+        return await _vehicleRepository.UpdateAsync(vehicle, id);
     }
 
     public async Task<bool> Handle(DeleteVehicleCommand command)

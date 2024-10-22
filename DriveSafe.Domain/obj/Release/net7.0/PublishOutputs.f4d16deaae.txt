@@ -1,0 +1,3 @@
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\publish\DriveSafe.Domain.dll
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\publish\DriveSafe.Domain.deps.json
+C:\Users\salvl\RiderProjects\DriveSafe-App-Backend\publish\DriveSafe.Domain.pdb
